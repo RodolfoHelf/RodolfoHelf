@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Florianópolis, Brazil • 🧠 <a href="https://linkedin.com/in/rodolfo-helfenstein">LinkedIn</a> • 📫 rodolfo_helfenstein@hotmail.com
+  📍 Florianópolis, Brazil • 🧠 <a href="https://linkedin.com/in/rodolfo-helfenstein">LinkedIn</a> • 📫 rodolfo_helfenstein@hotmail.com • 📊 <a href="https://rodolfohelf.github.io/Portfolio-Web-Page">Portfolio</a>
 </p>
 
 ---
