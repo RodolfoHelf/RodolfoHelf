@@ -1,12 +1,9 @@
 <h1 align="center">Hi there, I'm Rodolfo Helfenstein 👋</h1>
 
 <p align="center">
-  <em>Data Scientist | Problem Solver | Optimization Enthusiast</em>
+  <em>Data Scientist | Problem Solver | Optimization Enthusiast | Machine Learning | AI </em>
 </p>
 
-<p align="center">
-  📍 Florianópolis, Brazil • 🧠 <a href="https://linkedin.com/in/rodolfo-helfenstein">LinkedIn</a> • 📫 rodolfo_helfenstein@hotmail.com • 📊 <a href="https://rodolfohelf.github.io/Portfolio-Web-Page">Portfolio</a>
-</p>
 
 ---
 
@@ -50,4 +47,5 @@ With over 3 years of experience in data science, I specialize in building machin
 
 - 💼 [LinkedIn](https://linkedin.com/in/rodolfo-helfenstein)  
 - 🐙 [GitHub Projects](https://github.com/rodolfo-helfenstein)  
-- ✉️ rodolfo_helfenstein@hotmail.com  
+- ✉️ rodolfo_helfenstein@hotmail.com
+- 📊 <a href="https://rodolfohelf.github.io/Portfolio-Web-Page">Portfolio</a>
